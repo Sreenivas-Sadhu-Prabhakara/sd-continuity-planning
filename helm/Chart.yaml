@@ -1,0 +1,14 @@
+apiVersion: v2
+name: sd-continuity-planning
+description: "BIAN Service Domain: Continuity Planning (Plan pattern, Risk and Compliance)"
+type: application
+version: 0.1.0
+appVersion: "0.1.0"
+keywords:
+  - bian
+  - plan
+annotations:
+  bian/business-area: "Risk and Compliance"
+  bian/business-domain: "Compliance"
+  bian/asset-type: "Continuity Plan"
+  bian/control-record: "Continuity Plan Plan"
